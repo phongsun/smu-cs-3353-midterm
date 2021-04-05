@@ -26,7 +26,7 @@ You should find measurement data in output.csv
 
 # How do I learn more?
 1. examine details of output.csv and folly_vs_stl.xlsx in the source directory
-2. visit the medium.com blog post
+2. visit the medium.com blog post: https://sunsound777.medium.com/fbvector-a-possible-replacement-for-std-vector-e46bb31b8a56
 
 # Which versions of C++ does it work with?
 C++ 17
