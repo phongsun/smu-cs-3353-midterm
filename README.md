@@ -13,13 +13,15 @@ intended to evaluate the claim that folly::fbvector has better performance than 
 5. cmake ..
 6. make
 7. cd ..
-8. ls follio
+8. ls follio 
+   
 You should find follio in the directory.
 
 # How do I try it out?
 1. cd $install_dir/smu-cs-3352-midterm
 2. ./follio
-3. ls output.csv
+3. ls output.csv 
+   
 You should find measurement data in output.csv 
 
 # How do I learn more?
